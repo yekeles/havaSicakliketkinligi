@@ -16,7 +16,7 @@ public class Main {
         } else if ((sicaklik >= 15) && (sicaklik <= 25)) {
             System.out.println("Hava sıcaklığı " + sicaklik + " °C ise piknik yapmak için iyi bir gün");
         } else if (sicaklik >= 25 && sicaklik <= 45) {
-            System.out.println("Hava sıcaklığı " + sicaklik + " °C ise yüzmeye gitmekiçin iyi bir gün");
+            System.out.println("Hava sıcaklığı " + sicaklik + " °C ise yüzmeye gitmek için iyi bir gün");
         } else if (sicaklik >= 45) {
             System.out.println("Hava sıcaklığı " + sicaklik + " °C ise dışarı çıkmak için oldukça sıcaktır gölgede kalmaya çalışın");
         }
